@@ -1,0 +1,13 @@
+{
+  "name": "nollim/nihao",
+  "description": "Nihao module",
+  "type": "module",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "John Toto",
+      "email": "john@example.com"
+    }
+  ],
+  "require": {}
+}
